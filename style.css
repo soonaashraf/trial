@@ -1,0 +1,23 @@
+#footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#camera{
+    width: 30%;
+    height: 30%;
+    border-color: black;
+
+}
+
+
+img{
+    width: 30%;
+    height: 30%;
+}
